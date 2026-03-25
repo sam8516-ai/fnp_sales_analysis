@@ -41,7 +41,7 @@ It provides insights into sales performance, customer behavior, and revenue tren
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](fnp_sales_analysis/dashboard.png)
 
 ---
 
