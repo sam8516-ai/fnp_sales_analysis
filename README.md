@@ -89,5 +89,3 @@ Sales-Analysis-Dashboard
 Sameer Saurabh Yadav
 
 
-
-Give it a star on GitHub and share your feedback.
